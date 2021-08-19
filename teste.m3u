@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg id="Rede Brasil"-name lang="pt">Rede Brasil tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/QFuVr5O.png",Rede Brasil
+#EPG: <url>http://www.lineup.net.br</url>
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/QFuVr5O.png" group-title="Canais",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
