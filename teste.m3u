@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rec7" tvg-name="Rec7" tvg-logo="https://i.imgur.com/UhnTnPe.png",Record
+#EXTINF:-1 tvg-id="Rec7" tvg-name="Record" tvg-logo="https://i.imgur.com/UhnTnPe.png",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
  
 
